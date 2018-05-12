@@ -1,0 +1,38 @@
+_repo: Los-ingenios-de-la-isla-de-Cuba_39312
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Laplante, E. (Eduardo)
+    alias: Laplante, Eduardo‏
+    gutenberg_agent_id: '39954'
+    url: http://www.gutenberg.org/2009/agents/39954
+covers:
+- cover_type: archival
+  image_path: 39312-h/images/ill_cover_lg.jpg
+creator:
+  author:
+    agent_name: Cantero, J. G. (Justo Germán)
+    aliases:
+    - Cantero, J. G. (Justo German)
+    - Cantero, Justo Germán
+    birthdate: 1815
+    deathdate: 1871
+    gutenberg_agent_id: '39952'
+    url: http://www.gutenberg.org/2009/agents/39952
+    wikipedia: http://es.wikipedia.org/wiki/Justo_German_Cantero
+description: ''
+gutenberg_issued: '2012-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39312'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sugar trade -- Cuba -- History -- 19th century'
+- !lcsh 'Plantations -- Cuba -- History -- 19th century'
+- !lcc 'HD'
+title: "Los ingenios:\r\ncolección de vistas de los principles ingenios de azúcar\
+  \ de la isla de Cuba"
+url: http://www.gutenberg.org/ebooks/39312
